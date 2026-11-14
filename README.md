@@ -92,13 +92,6 @@ I'm studying Computer Science at KIIT, Bhubaneswar (B.Tech, 2027). I'm intereste
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
 
-#### Courses
-
-- Machine Learning Specialization, Stanford University
-- Introduction to Statistics, Stanford University
-- Prompt Engineering Specialization, Vanderbilt University
-- Meta Front-End Development Certificate, Meta
-
 #### Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ishanchowdhury.vercel.app-000?logo=vercel)](https://ishanchowdhury.vercel.app/)
