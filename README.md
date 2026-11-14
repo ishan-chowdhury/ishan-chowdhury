@@ -1,30 +1,30 @@
 ### Hi, I'm Ishan
 
-I'm a Computer Science undergraduate at **KIIT, Bhubaneswar** (B.Tech, 2027, CGPA 9.89/10) who works where **technology meets business**: software engineering, machine learning and analytics applied to real business decisions.
+I'm studying Computer Science at KIIT, Bhubaneswar (B.Tech, 2027). I'm interested in where technology and business meet, and most of my work so far has been software, machine learning and analytics for practical business problems.
 
-- Building with **LLMs and RAG**. My latest is [shlokaAI](https://github.com/ishan-chowdhury/shlokaAI), an advisor that answers everyday questions with cited verses from the Bhagavad Gita, so nothing is made up.
-- Learning in public: [LLM mechanisms from scratch](https://github.com/ishan-chowdhury/llms-mechanisms-learning-path) (tokenisation, embeddings, attention, transformers) and a [RAG learning path](https://github.com/ishan-chowdhury/rag-learning-path).
-- Competing on **Kaggle**: currently *Name That LLM* (which of 18 LLMs wrote this text?) and *Soil Grain Size from Photos*.
-- On the business side: pricing strategy, sales forecasting, sales-route optimisation and financial impact analysis, turned into recommendations for leadership.
-- I write about how LLMs work, e.g. [The Illustrated Transformer](https://ishanchowdhury.vercel.app/blog/the-illustrated-transformer).
+- Recently I've been learning to build with LLMs and RAG, e.g. [shlokaAI](https://github.com/ishan-chowdhury/shlokaAI), which answers everyday questions by retrieving and citing relevant verses from the Bhagavad Gita.
+- I keep my study notes public: [LLM mechanisms from scratch](https://github.com/ishan-chowdhury/llms-mechanisms-learning-path) (tokenisation, embeddings, attention, transformers) and a [RAG learning path](https://github.com/ishan-chowdhury/rag-learning-path).
+- I'm taking part in a couple of Kaggle competitions to learn: *Name That LLM* and *Soil Grain Size from Photos*.
+- On the business side, I've worked on pricing, sales forecasting, sales-route planning and financial impact analysis.
+- I sometimes write up what I learn, e.g. [The Illustrated Transformer](https://ishanchowdhury.vercel.app/blog/the-illustrated-transformer).
 
 #### Experience
 
 | Where | Role | What I did |
 |---|---|---|
-| **OpsHub** | Software Engineering Intern | Shipped enhancements and critical fixes for OpsHub Integration Manager, an enterprise platform connecting 70+ ALM, DevOps, ITSM and CRM tools; built an AI-assisted defect-fix workflow with Cline and Azure DevOps |
-| **Adani Group** | Business Development and IT | Business and technology projects, presented directly to the Group Chairman |
-| **AWL Agri Business** | Intern | Sales forecasting models (R² around 0.9), competitor price estimation and pricing optimisation; sales-beat and route optimisation with fuzzy matching and spatial analysis |
+| **OpsHub** | Software Engineering Intern | Worked on features and bug fixes for OpsHub Integration Manager, an integration platform for ALM, DevOps, ITSM and CRM tools; tried out an AI-assisted defect-fix workflow with Cline and Azure DevOps |
+| **Adani Group** | Business Development and IT | Business development and IT projects |
+| **AWL Agri Business** | Intern | Sales forecasting and pricing models; cleaned up store data with fuzzy matching and planned sales routes with spatial analysis |
 
 #### Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [shlokaAI](https://github.com/ishan-chowdhury/shlokaAI) | RAG advisor grounded in Bhagavad Gita verses, with citations | TypeScript · RAG · LLMs |
-| [Splitora](https://github.com/ishan-chowdhury/Splitora_Team_Project) | Led a team of 6: group expense platform with OCR receipt parsing and hybrid fuzzy-match + zero-shot NLP transaction classification ([live](https://splitora-ai.vercel.app/)) | Next.js · FastAPI · MongoDB · Tesseract |
-| [Construction Intelligence](https://github.com/ishan-chowdhury/construction-intelligence-platform) | Detects active construction sites from Sentinel satellite imagery | Python · GeoPandas · Rasterio · Folium |
+| [shlokaAI](https://github.com/ishan-chowdhury/shlokaAI) | Answers questions using retrieved Bhagavad Gita verses, with citations | TypeScript · RAG · LLMs |
+| [Splitora](https://github.com/ishan-chowdhury/Splitora_Team_Project) | Team project (6 people): group expense app with OCR receipt parsing and transaction categorisation ([live](https://splitora-ai.vercel.app/)) | Next.js · FastAPI · MongoDB · Tesseract |
+| [Construction Intelligence](https://github.com/ishan-chowdhury/construction-intelligence-platform) | Looks for new construction sites by comparing satellite images over time | Python · GeoPandas · Rasterio · Folium |
 | [Receipt Scanner](https://github.com/ishan-chowdhury/receipt-scanner-money-management) | OCR API that turns receipt photos into structured expense data | Python · OCR |
-| [PowerStudy](https://github.com/ishan-chowdhury/powerstudy) | Privacy-first Pomodoro and study tracker ([live](https://powerstudy-ten.vercel.app)) | React |
+| [PowerStudy](https://github.com/ishan-chowdhury/powerstudy) | Simple Pomodoro timer and study tracker ([live](https://powerstudy-ten.vercel.app)) | React |
 
 #### Skills
 
@@ -92,19 +92,12 @@ I'm a Computer Science undergraduate at **KIIT, Bhubaneswar** (B.Tech, 2027, CGP
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
 
-#### Certifications
+#### Courses
 
 - Machine Learning Specialization, Stanford University
 - Introduction to Statistics, Stanford University
 - Prompt Engineering Specialization, Vanderbilt University
 - Meta Front-End Development Certificate, Meta
-
-#### Achievements
-
-- 1st rank in 2nd year among about 4,000 CSE students at KIIT; perfect 10 GPA in 3rd and 4th semesters
-- Presented project findings directly to the Chairman of Adani Group
-- Certificate of Appreciation for pricing analytics and beat-optimisation work at AWL Agri Business
-- 3rd Zonal Rank, International Olympiad of English Language
 
 #### Find me
 
