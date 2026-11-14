@@ -6,7 +6,7 @@ I'm a Computer Science undergraduate at **KIIT** (B.Tech, 2027) who works where 
 - 📚 Learning in public: [LLM mechanisms from scratch](https://github.com/ishan-chowdhury/llms-mechanisms-learning-path) (tokenisation → embeddings → attention → transformers) and a [RAG learning path](https://github.com/ishan-chowdhury/rag-learning-path).
 - 🏆 Competing on **Kaggle**: currently *Name That LLM* (which of 18 LLMs wrote this text?) and *Soil Grain Size from Photos*.
 - 📈 On the business side: pricing strategy, sales forecasting, financial impact analysis and turning data into recommendations for leadership.
-- 💼 Internships: **OpsHub** (software engineering: integration and data sync for DevOps/ALM tools), **Adani Group** (summer 2026, satellite-imagery construction intelligence) and **AWL Agri Business** (sales forecasting and pricing ML).
+- 💼 Internships: **OpsHub** (software engineering: integration and data sync for DevOps/ALM tools), **Adani Group** (business development and IT) and **AWL Agri Business** (sales forecasting and pricing ML).
 - ✍️ I write about how LLMs work, e.g. [The Illustrated Transformer](https://ishanchowdhury.vercel.app/blog/the-illustrated-transformer).
 
 #### Featured projects
